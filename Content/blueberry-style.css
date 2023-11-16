@@ -1,0 +1,11 @@
+*{
+    background-color: rgb(81, 81, 167);
+    color:  pink !important;
+    font-weight: 200px;;
+}
+div{
+    border: 6px solid black !important;
+}
+.pic-box{
+    margin: 8px;
+}
